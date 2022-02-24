@@ -1,1 +1,2 @@
-Thsi is String utils of java
+This is master branch line
+This is String utils of java
