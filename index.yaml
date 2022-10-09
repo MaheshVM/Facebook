@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mavenwebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-09T02:12:47.005222916Z"
+    description: A Helm chart for Kubernetes
+    digest: 08605d2e35fcf66b0c7d73e689da6b90e234db76431123e672087d0c2a93bca3
+    name: mavenwebapp
+    type: application
+    urls:
+    - https://maheshvm.github.io/Facebook/mavenwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-09T02:12:47.002121681Z"
